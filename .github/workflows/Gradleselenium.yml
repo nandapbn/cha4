@@ -1,4 +1,4 @@
-name: Test (parallel)
+name: Gradle Selenium
 
 on: [workflow_dispatch]
 
